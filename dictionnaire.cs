@@ -23,7 +23,7 @@ namespace programme_collections
 
             if (d.ContainsKey(personneAChercher))
             {
-                Console.WriteLine(d[personneAChercher]);
+                Console.WriteLine("Le numéro de " + personneAChercher + " est : " + d[personneAChercher]);
             }
             else
             {
