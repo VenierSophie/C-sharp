@@ -11,6 +11,12 @@ Bonne lecture !
 __Récapitulatif des programmes :__
 
   
-| DOSSIER    | PROGRAMME                   | DESCRIPTION          |
-| ---------  | --------------------------- | ---------------------|
-|       |                  | |
+| DOSSIER                 | PROGRAMME                   | DESCRIPTION          |
+| ----------------------- | --------------------------- | ---------------------|
+| générateurMDP - outils  |                  | |
+| générateurMDP - program |                  | |
+| boucleForeach           |                  | |
+| dictionnaire            |                  | |
+| listesDeListes          |                  | |
+| nbreMagique             |                  | |
+| opérationsMaths         |                  | |
