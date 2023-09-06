@@ -11,12 +11,12 @@ Bonne lecture !
 __Récapitulatif des programmes :__
 
   
-| DOSSIER                 | PROGRAMME                   | DESCRIPTION          |
-| ----------------------- | --------------------------- | ---------------------|
-| générateurMDP - outils  |                  | |
-| générateurMDP - program |                  | |
-| boucleForeach           |                  | |
-| dictionnaire            |                  | |
-| listesDeListes          |                  | |
-| nbreMagique             |                  | |
-| opérationsMaths         |                  | |
+| DOSSIER                 | DESCRIPTION          |
+| ----------------------- | ---------------------|
+| générateurMDP - outils  |                |
+| générateurMDP - program | Génération d'un mot de passe aléatoire               |
+| boucleForeach           | Utilisation de la boucle foreach afin de pacourir tous les éléments d'un tableau               |
+| dictionnaire            |                |
+| listesDeListes          |                  |
+| nbreMagique             |                  |
+| opérationsMaths         |                  |
