@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Bonjour à tous,
-Ci-dessous le récapitulatif des programmes ques j'ai développés avec la formation complète C# de Jonathan Roux (Septembre 2023).
+ci-dessous le récapitulatif des programmes que j'ai développés avec la formation DOTNET de HN Services et la formation complète C# de Jonathan Roux (août & septembre 2023).
 Bonne lecture !
 
 ----------------------------------------------------------------------------------------------------------------------------------------
