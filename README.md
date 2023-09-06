@@ -1,3 +1,16 @@
 # C#
 
-Mes programmes en C# avec la formation de Développeur C# de Jonathan Roux !
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Bonjour à tous,
+Ci-dessous le récapitulatif des programmes ques j'ai développés avec la formation complète C# de Jonathan Roux (Septembre 2023).
+Bonne lecture !
+
+----------------------------------------------------------------------------------------------------------------------------------------
+  
+__Récapitulatif des programmes :__
+
+  
+| DOSSIER    | PROGRAMME                   | DESCRIPTION          |
+| ---------  | --------------------------- | ---------------------|
+|       |                  | |
