@@ -11,7 +11,7 @@ Bonne lecture !
 __Récapitulatif des programmes :__
 
   
-| DOSSIER                 | DESCRIPTION                                                                                  |
+| DOSSIER / PROGRAMME     | DESCRIPTION                                                                                  |
 | ----------------------- | ---------------------------------------------------------------------------------------------|
 | générateurMDP - outils  | Module : Demande un nombre positif non nul à l'utilisateur                                   |
 | générateurMDP - program | Génération d'un ou de plusieurs mots de passe aléatoires                                     |
