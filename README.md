@@ -11,12 +11,15 @@ Bonne lecture !
 __Récapitulatif des programmes :__
 
   
-| DOSSIER                 | DESCRIPTION          |
-| ----------------------- | ---------------------|
-| générateurMDP - outils  |                |
-| générateurMDP - program | Génération d'un mot de passe aléatoire               |
-| boucleForeach           | Utilisation de la boucle foreach afin de pacourir tous les éléments d'un tableau               |
-| dictionnaire            |                |
-| listesDeListes          |                  |
-| nbreMagique             |                  |
-| opérationsMaths         |                  |
+| DOSSIER                 | DESCRIPTION                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------------|
+| générateurMDP - outils  | Module : Demande un nombre positif non nul à l'utilisateur                                   |
+| générateurMDP - program | Génération d'un ou de plusieurs mots de passe aléatoires                                     |
+| boucleForeach           | Utilisation de la boucle foreach - Pacourir un annuaire (prénom & numéro de téléphone)       |
+| dictionnaire            | Utilisation du dicitionnaire - Pacourir un annuaire (prénom & numéro de téléphone)           |
+| listesDeListes          | Création d’équipes pour événement                                                            |
+| nbreMagique             | Jeu où il faut deviner un chiffre aléatoire que le programme génère                          |
+| opérationsMaths         | Opérations basiques de Mathématiques : Addition, multiplication, soustraction                |
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
